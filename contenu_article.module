@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Contenu Article feature.
+ */
+
+include_once 'contenu_article.features.inc';
